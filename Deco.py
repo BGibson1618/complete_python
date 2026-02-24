@@ -9,5 +9,3 @@ def my_deco(fn):
 
 def my_func(li):
     return li * 2
-
-
